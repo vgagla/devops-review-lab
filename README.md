@@ -1,2 +1,2 @@
 # devops-review-lab
-DevOps Fundamentals Review Lab - Challenge
+Project overview and setup instructions
