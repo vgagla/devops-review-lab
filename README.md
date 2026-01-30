@@ -1,2 +1,2 @@
-# devops-review-lab
+# Devops Review Lab
 Project overview and setup instructions
